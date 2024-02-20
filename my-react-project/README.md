@@ -6,7 +6,12 @@ Welcome to the React TailwindCSS project! This project showcases the integration
 
 ## Demo
 
-[![React TailwindCSS Demo](https://github.com/tinabi8/React_tailwindcss/raw/main/my-react-project/React_tailwindcss.png)](https://github.com/tinabi8/React_tailwindcss/blob/main/my-react-project/React_tailwindcss_Tingting.mp4)
+## Demo
+
+[![React TailwindCSS Demo](https://github.com/tinabi8/React_tailwindcss/raw/main/my-react-project/React_tailwindcss.png)](https://example.com/path/to/your/video.mp4)
+
+Click the image above to watch the demo video.
+
 
 Click the image above to watch the demo video.
 
