@@ -4,7 +4,8 @@ Welcome to the React TailwindCSS project! This project showcases the integration
 
 ## Demo
 
-[![React TailwindCSS Demo](https://github.com/tinabi8/React_tailwindcss/raw/main/my-react-project/React_tailwindcss.png)](https://drive.google.com/uc?export=download&id=YOUR_VIDEO_ID)
+[![React TailwindCSS Demo](https://github.com/tinabi8/React_tailwindcss/raw/main/my-react-project/React_tailwindcss.png)](https://github.com/tinabi8/React_tailwindcss/raw/main/my-react-project/YourVideoFileName.mp4)
+
 
 ## Getting Started
 
