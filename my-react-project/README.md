@@ -6,12 +6,6 @@ Welcome to the React TailwindCSS project! This project showcases the integration
 
 [![React TailwindCSS Demo](https://github.com/tinabi8/React_tailwindcss/raw/main/my-react-project/React_tailwindcss.png)](https://drive.google.com/uc?export=download&id=YOUR_VIDEO_ID)
 
-
-Click the image above to watch the demo video.
-
-
-Click the image above to watch the demo video.
-
 ## Getting Started
 
 To get started with this project, follow these steps:
